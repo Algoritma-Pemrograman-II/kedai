@@ -115,7 +115,7 @@
               data-aos="zoom-out"
             >
               <img
-                src="{{ asset('assets/') }}homepage/img/menu/menu32.png"
+                src="{{ asset('assets/homepage/img/menu/menu32.png') }}"
                 class="img-fluid animated"
                 alt=""
               />
